@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819053449473",
+    "project_id": "finalprojectfabian",
+    "storage_bucket": "finalprojectfabian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819053449473:android:05fcec48739ce7fade0b00",
+        "android_client_info": {
+          "package_name": "com.example.final_project_fabian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819053449473-nii6u91q5sr42pfr2am328piamehnqp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnHA0CSgOmhL-7hFdph8JzxVm_sxNSyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819053449473-nii6u91q5sr42pfr2am328piamehnqp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
